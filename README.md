@@ -239,5 +239,3 @@ Refactor functions and parallelise.
 ## 5. ∂f/f0 trace extraction
 Minus the rolling average along each pixel timeseries
 
-# Visualisation scripts
-
